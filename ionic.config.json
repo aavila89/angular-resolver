@@ -1,0 +1,7 @@
+{
+  "name": "example-angular-resolver",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
